@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Final_weipenghe.MainPage">
+
+    <ListView x:Name="carouselview" ItemSelected="carouselview_ItemSelected" >
+        <ListView.ItemTemplate>
+        <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="15.0" Orientation="Horizontal" >
+                    <Label Text="date : " TextColor="Black" />
+                    <Label Text="{Binding date}"  TextColor="Black" />
+                    <Label Text="Name : " TextColor="Black" />
+                    <Label Text="{Binding name}" TextColor="Black" />
+                    <Label Text=" countryCode : " TextColor="Black" />
+                    <Label Text="{Binding countryCode}" TextColor="Black" />
+
+                </StackLayout>
+            </ViewCell>
+        </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

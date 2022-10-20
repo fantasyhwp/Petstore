@@ -1,0 +1,16 @@
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.AssemblyInfoInputs.cache
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.AssemblyInfo.cs
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.csproj.CoreCompileInputs.cache
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.dll
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\ref\Final_weipenghe.dll
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.pdb
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\bin\Debug\netstandard2.0\Final_weipenghe.deps.json
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\bin\Debug\netstandard2.0\Final_weipenghe.dll
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\bin\Debug\netstandard2.0\ref\Final_weipenghe.dll
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\bin\Debug\netstandard2.0\Final_weipenghe.pdb
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\secondPage.xaml.g.cs
+C:\Users\fanta\source\repos\Final_weipenghe\Final_weipenghe\Final_weipenghe\obj\Debug\netstandard2.0\Final_weipenghe.csproj.AssemblyReference.cache
